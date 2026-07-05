@@ -1,0 +1,13 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="36" fill="#0F1F33"/>
+  <circle cx="400" cy="330" r="220" fill="#1E3A5F"/>
+  <circle cx="400" cy="330" r="180" fill="#30C7B5"/>
+  <path d="M260 330C260 260 320 220 400 220C480 220 540 260 540 330V360C540 440 484 506 400 506C316 506 260 440 260 360V330Z" fill="#F7CBA4"/>
+  <path d="M320 286C320 244 352 212 394 212H406C448 212 480 244 480 286V306C480 346 452 380 414 388L400 392L386 388C348 380 320 346 320 306V286Z" fill="#111827"/>
+  <circle cx="350" cy="320" r="18" fill="#111827"/>
+  <circle cx="450" cy="320" r="18" fill="#111827"/>
+  <path d="M338 392C356 420 392 440 400 440C408 440 444 420 462 392" stroke="#B9654A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M220 760C276 624 332 562 400 562C468 562 524 624 580 760" stroke="#30C7B5" stroke-width="28" stroke-linecap="round"/>
+  <rect x="212" y="740" width="376" height="92" rx="24" fill="#FF8B3D"/>
+  <text x="400" y="802" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="white">CK</text>
+</svg>
