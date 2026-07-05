@@ -1,0 +1,200 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4247 >>
+stream
+BT
+72 750 Td
+/F2 18 Tf
+(Chandan Kumar) Tj
+0 -18 Td
+/F2 14 Tf
+(Senior Software Engineer) Tj
+0 -18 Td
+/F1 12 Tf
+(Phone: +91 6200480241 | Email: chandanrabat@gmail.com) Tj
+0 -18 Td
+/F1 12 Tf
+(LinkedIn: linkedin.com/in/chandan-kumar-/ | GitHub: github.com/Ckumar) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -18 Td
+/F1 12 Tf
+(Senior Software Engineer with 6 years of experience specializing in high-impact) Tj
+0 -18 Td
+/F1 12 Tf
+(healthcare and fintech solutions. Expert in developing complex tools \(PEM, MPEO, HSA\)) Tj
+0 -18 Td
+/F1 12 Tf
+(and AI-driven chatbots using AWS Bedrock and Python. Proven track record of) Tj
+0 -18 Td
+/F1 12 Tf
+(excellence with 4 promotions and multiple prestigious awards for innovation and) Tj
+0 -18 Td
+/F1 12 Tf
+(delivery within Fortune 500 global accounts.) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -18 Td
+/F1 12 Tf
+(Languages: JavaScript \(Node.js\), Python, HTML5, CSS3, Bootstrap 5, jQuery.) Tj
+0 -18 Td
+/F1 12 Tf
+(AI/ML: AWS Bedrock \(Claude Sonnet 3.5\), RAG System, LangChain, Amazon Lex.) Tj
+0 -18 Td
+/F1 12 Tf
+(Cloud & Tools: AWS Lambda 2.0, S3, EventBridge, API Gateway, DynamoDB, SSO.) Tj
+0 -18 Td
+/F1 12 Tf
+(Data Analysis: NumPy, Pandas, Excel \(openpyxl, XlsxWriter\), Automated Dashboards.) Tj
+0 -18 Td
+/F1 12 Tf
+(Domain Expertise: US Healthcare \(PEM, MPEO, HSA, MRA, FSA\), OneTrust implementation.) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+0 -18 Td
+/F2 14 Tf
+(Wipro | Software Engineer | August 2021 - Present) Tj
+0 -18 Td
+/F1 12 Tf
+(Healthcare Decision Tools: Developed and maintained critical PEM \(Plan Enrollment) Tj
+0 -18 Td
+/F1 12 Tf
+(Modeler\) and MPEO modules for high-profile clients in the aerospace, financial) Tj
+0 -18 Td
+/F1 12 Tf
+(services, and telecommunications industries.) Tj
+0 -18 Td
+/F1 12 Tf
+(AI Chatbot & RAG Integration: Engineered an intelligent chatbot using Python and AWS) Tj
+0 -18 Td
+/F1 12 Tf
+(Bedrock; implemented a RAG \(Retrieval-Augmented Generation\) system with LangChain to) Tj
+0 -18 Td
+/F1 12 Tf
+(provide contextual, data-driven responses.) Tj
+0 -18 Td
+/F1 12 Tf
+(Search Crawler Development: Built a custom search crawler tool with Node.js and AWS) Tj
+0 -18 Td
+/F1 12 Tf
+(\(Lambda, S3, EventBridge\) to output structured data reports.) Tj
+0 -18 Td
+/F1 12 Tf
+(Large-Scale Data Operations: Managed a daily pipeline of 62,000+ data points;) Tj
+0 -18 Td
+/F1 12 Tf
+(developed Python-based validation reports to identify historical trends and resolve) Tj
+0 -18 Td
+/F1 12 Tf
+(data ambiguities.) Tj
+0 -18 Td
+/F1 12 Tf
+(Microsite & UI Design: Designed mobile-responsive microsites using Bootstrap 5,) Tj
+0 -18 Td
+/F1 12 Tf
+(integrating front-end components with back-end APIs to suggest tailored healthcare) Tj
+0 -18 Td
+/F1 12 Tf
+(plans.) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(SELECTED PROJECT PORTFOLIO \(Anonymized\)) Tj
+0 -18 Td
+/F1 12 Tf
+(Aerospace & Defense: Developed benefits enrollment tools for a leading global) Tj
+0 -18 Td
+/F1 12 Tf
+(aerospace manufacturer.) Tj
+0 -18 Td
+/F1 12 Tf
+(Banking & Finance: Scaled fintech modules for top-tier US-based global investment) Tj
+0 -18 Td
+/F1 12 Tf
+(banks.) Tj
+0 -18 Td
+/F1 12 Tf
+(Telecommunications: Architected consumer-facing microsites for a primary US telecom) Tj
+0 -18 Td
+/F1 12 Tf
+(provider.) Tj
+0 -18 Td
+/F1 12 Tf
+(Consumer Services: Delivered data-driven tools for global retail and insurance) Tj
+0 -18 Td
+/F1 12 Tf
+(giants.) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(AWARDS & RECOGNITION) Tj
+0 -18 Td
+/F1 12 Tf
+(Annual Platinum Award \(2025\): Recognized for exceptional professional contribution) Tj
+0 -18 Td
+/F1 12 Tf
+(and excellence.) Tj
+0 -18 Td
+/F1 12 Tf
+(Internal Excellence Awards: Recipient of 4 internal awards for technical innovation) Tj
+0 -18 Td
+/F1 12 Tf
+(and project delivery.) Tj
+0 -18 Td
+/F1 12 Tf
+(Accelerated Growth: Promoted 4 times in 4 years, moving from Fresher to a key) Tj
+0 -18 Td
+/F1 12 Tf
+(technical role handling high-priority modules.) Tj
+0 -18 Td
+0 -14 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -18 Td
+/F1 12 Tf
+(Bachelor of Engineering \(B.E.\) in Computer Science & Engineering) Tj
+0 -18 Td
+/F1 12 Tf
+(Radharaman Institute of Technology & Science \(RITS\)) Tj
+0 -18 Td
+/F1 12 Tf
+(Affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya \(R.G.P.V\)) Tj
+0 -18 Td
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4695
+%EOF
